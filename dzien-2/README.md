@@ -41,3 +41,5 @@ Przejrzyj proszę przykłady na angielskich stronach podanych powyzej.
 ### Rozwiązania
 
 Sprawdź plik `index.js`
+
+Czegoś nie rozumiesz, bądź utknęłaś? Napisz do nas https://www.facebook.com/groups/868937947010969 

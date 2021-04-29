@@ -57,3 +57,5 @@ takze pamiętać o średnikach) zapoznaj się z tym materiałem https://www.w3sc
 ### Rozwiązanie
 
 Spójrz na plik `index.js`
+
+Czegoś nie rozumiesz, bądź utknęłaś? Napisz do nas https://www.facebook.com/groups/868937947010969 
