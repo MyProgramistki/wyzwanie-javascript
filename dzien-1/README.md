@@ -41,8 +41,10 @@ console.log('To Twój kod Javascript widoczny w konsoli`)
 
 Powinnaś widzieć swój kod w przeglądarce i w konsoli. 
 
-2. Przenieś swój kodu do osobnego pliku nazwanego np. index.js i zalinkowanie go wewnątrz `<body></body>`. Ten sposób jest zdecydowanie bardziej uporządkowany i tym samym w większości przypadków stosowany. Aby zalinkować plik musisz
-uzyc atrybutu `src` 
+2. Przenieś swój kodu do osobnego pliku nazwanego np. index.js i zalinkuj go wewnątrz `<body></body>`. 
+Ten sposób umieszczania kodu javascriptowego jest zdecydowanie bardziej uporządkowany i tym samym w większości przypadków stosowany, więc 
+od początku nauczymy się dobrych praktyk. Aby zalinkować plik musisz
+uzyc atrybutu `src`. Pamiętasz ? https://www.w3schools.com/tags/att_script_src.asp
 
 3. Poniewaz Javascript ma swoje "dziwactwa", a więc gdy do niej mówisz musisz być precyzyjna (np. uzywać małych, a nie wielkich liter, nie uzywać niektórych słów, a 
 takze pamiętać o średnikach) zapoznaj się z tym materiałem https://www.w3schools.com/js/js_statements.asp)
