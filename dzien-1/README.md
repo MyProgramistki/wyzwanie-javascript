@@ -31,14 +31,17 @@ Teraz wewnątrz tego tagu dodaj proszę nowy tag `<script></script>`. Twój kod
 ```
 
 Aby upewnić się, ze skrypt działa, umieść teraz wewnątrz `<script></script>` 
-te fragmenty, i otwórz przeglądarkę, a następnie wewnątrz przeglądarki konsolę (https://www.youtube.com/watch?v=q9jAFZjPFHo&t=27s) 
+fragmenty, które widzisz ponizej, i otwórz przeglądarkę, a następnie wewnątrz przeglądarki konsolę (https://www.youtube.com/watch?v=q9jAFZjPFHo&t=27s) 
 
-`alert('To Twój kod Javascript widoczny w przeglądarce')`;
-`console.log('To Twój kod Javascript widoczny w konsoli`)
+```
+alert('To Twój kod Javascript widoczny w przeglądarce');
+console.log('To Twój kod Javascript widoczny w konsoli`)
+
+```
 
 Powinnaś widzieć swój kod w przeglądarce i w konsoli. 
 
-2. Przenieś swój kodu do osobnego pliku nazwanego np. index.js i zalinkowanie go wewnątrz `<body></body>`.  Ten sposób jest zdecydowanie bardziej uporządkowany i tym samym w większości przypadków stosowany. Aby zalinkować plik musisz
+2. Przenieś swój kodu do osobnego pliku nazwanego np. index.js i zalinkowanie go wewnątrz `<body></body>`. Ten sposób jest zdecydowanie bardziej uporządkowany i tym samym w większości przypadków stosowany. Aby zalinkować plik musisz
 uzyc atrybutu `src` 
 
 3. Poniewaz Javascript ma swoje "dziwactwa", a więc gdy do niej mówisz musisz być precyzyjna (np. uzywać małych, a nie wielkich liter, nie uzywać niektórych słów, a 
