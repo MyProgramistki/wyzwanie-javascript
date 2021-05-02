@@ -10,12 +10,15 @@ Mamy tam fragment kodu `<p id="first-paragraph"></p>`
 
 Zamiast statycznie umieszczać tekst pomiędzy tagami `<p>` jak robiłyśmy to dotychczas, a przynajmniej podczas naszego Wyzwania Walentynkowego, spróbujemy teraz wrzucić ten tekst dynamicznie. 
 
-W tym celu pobierzemy sobie element korzystając z udostępnionej nam funkcji czyli `document.getElementById('first-paragraph')`, a następnie z pomocą `.innerHTML` dodamy tekst do naszej strony.
+W tym celu pobierzemy sobie element korzystając z udostępnionej nam  przez Javascript funkcji czyli `document.getElementById()`, a następnie z pomocą `.innerHTML` dodamy tekst do naszej strony.
 
 Nasz kod będzie wyglądał tak:
 
 `document.getElementById('first-paragraph').innerHTML = "Mój pierwszy dynamiczny paragraf" `
 
+Wykonaj to proszę u siebie. Fragment kodu mozesz umieścić albo bezpośrednio w pliku html w tagu 
+`<script></script>`, albo w osobnym pliku `.js` (czyli tak jak uczyłyśmy się wczoraj) Sprawdź czy działa - 
+tekst powinien być widoczny na stronie. 
 
 ## Zadanie
 
@@ -40,6 +43,6 @@ Przejrzyj proszę przykłady na angielskich stronach podanych powyzej.
 
 ### Rozwiązania
 
-Sprawdź plik `index.js`
+Sprawdź plik `index.js` i `index-rozwiazanie.html`
 
 Czegoś nie rozumiesz, bądź utknęłaś? Napisz do nas https://www.facebook.com/groups/868937947010969 
