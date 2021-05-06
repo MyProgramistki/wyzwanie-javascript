@@ -77,6 +77,9 @@ angielsko - języczne
 1. https://javascript.info/function-basics
 2. https://www.w3schools.com/js/js_functions.asp
 
+polsko - języczne
+
+1. https://developer.mozilla.org/pl/docs/Web/JavaScript/Guide/Functions
 
 ### Rozwiązanie
 
