@@ -59,7 +59,7 @@ Sprawdź, jeśli w konsoli zobaczysz `undefined` to znaczy, ze zrobilas dobrze. 
 - polsko - języczne
 
 1. https://developer.mozilla.org/pl/docs/Learn/JavaScript/Objects
-2. 
+
 
 ### Rozwiązanie
 
