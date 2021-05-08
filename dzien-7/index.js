@@ -24,14 +24,14 @@ function multiply() {
   return first * second;
 }
 
-function add() {
-  const first  = document.getElementById('first').value;
-  const second = document.getElementById('second').value
+// function add() {
+//   const first  = document.getElementById('first').value;
+//   const second = document.getElementById('second').value
 
-  console.log(first + second);
+//   console.log(first + second);
 
-  return first + second;
- }
+//   return first + second;
+//  }
 
  function substract() {
   const first  = document.getElementById('first').value;
@@ -48,3 +48,10 @@ function add() {
   console.log(first / second);
   return first / second;
  }
+
+ function add(){
+  const first = document.getElementById ("first-input").value;
+  const second = document.getElementById ("second-input").value;
+  var equal = +first + +second;
+  document.getElementById("sum").innerHTML= equal;
+ }  
