@@ -77,6 +77,7 @@ angielsko-języczne
 polsko-angielskie
 
 1. http://www.w3big.com/pl/jsref/jsref-if.html
+
 ### Rozwiązanie
 
 Sprawdz plik `index.js`, a takze `index-rozwiazanie.html` W razie problemów skontaktuj się z nami. 

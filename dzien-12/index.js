@@ -38,3 +38,5 @@ function readNumber() {
 }
 
 alert(`Read: ${readNumber()}`);
+
+console.log(this);
